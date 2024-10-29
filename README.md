@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My school account (it has more projects from my classes): [beep boop!](https://github.com/AlexaB808)
+## My school account (it has more projects from my classes): [beep boop!](https://github.com/AlexaB808)
 
 ----
 Languages: C, C++, a lil Python, HTML, CSS, Java, and Javascript (I'm still learning WebDev)
