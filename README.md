@@ -21,7 +21,7 @@ My school account (it has more projects from my classes): [beep boop!](https://g
 Languages: C, C++, a lil Python, HTML, CSS, Java, and Javascript (I'm still learning WebDev)
 
 Interests + Clubs:
-- Archery + Archery Club
-- Transportation + Institute of Transportation Engineers (ITE)
-- Cybersecurity + Security Club, Women in Cybersecurity (WiCys)
+- 🎯 Archery + Archery Club
+- 🚆 Transportation + Institute of Transportation Engineers (ITE)
+- 🔐 Cybersecurity + Security Club, Women in Cybersecurity (WiCys)
 - Math (i just like and want more math 😔) 
